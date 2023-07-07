@@ -1,6 +1,8 @@
-### Hi there 👋
+I'm a Web developer 👨🏻‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatump&layout=compact)](https://github.com/tatump/github-readme-stats)
+<!-- ### Hi there 👋 -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatump&layout=compact)](https://github.com/tatump/github-readme-stats) -->
 
 <!--
 **tatump/tatump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ref https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- ref 
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://zzetao.github.io/awesome-github-profile/
+-->
