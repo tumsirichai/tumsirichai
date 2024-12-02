@@ -1,5 +1,6 @@
 ### 👋 Hello. Call me Tum.
-I'm a Web Developer from Thailand 🇹🇭.
+I'm a Freelance Full-Stack Web Developer from Thailand 🇹🇭.
+ทำงานฟรีแลนซ์ออกแบบและพัฒนาเว็บไซต์
 
 <!-- ### Hi there 👋 -->
 
